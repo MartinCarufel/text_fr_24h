@@ -1,0 +1,35 @@
+{
+    "appKeys": {
+        "Cbatterie": 2,
+        "Ccouleur": 1,
+        "CminutePrecise": 0,
+        "Ctopbar": 3
+    },
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "Martin",
+    "longName": "Text Watch FR",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "data/resource_map.json",
+                "name": "DUMMY",
+                "type": "raw"
+            },
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Text Watch FR",
+    "uuid": "734218b5-4301-4897-8568-d45058e65cca",
+    "versionCode": 0,
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
